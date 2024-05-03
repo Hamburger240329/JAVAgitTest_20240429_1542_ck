@@ -6,6 +6,8 @@ public class MyTest_20240429_1540_22 {
 
 		System.out.println("Helloworld!!");
 		System.out.println("안녕하세요!!");
+		System.out.println("안녕하세요!!");
+		System.out.println("안녕하세요!!");
 	}
 
 }
